@@ -1,0 +1,87 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    border: 100%;
+}
+h1{
+    font: size 50px;
+}
+h2{ 
+    font-size: 30px;
+}
+.name-highlight{
+    color:orange;
+}
+.dhighlight{
+    color:goldenrod;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 50%;
+}
+.top-banner{
+    background-image:url(images/top\ bnner.jpeg);
+}
+.half{
+    float: left;
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{ 
+    width: 50%;
+}
+section{
+    height: 300px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color:white;
+    font-weight: 700;
+}
+.second-button{
+    text-decoration: none;
+    background-color: black;
+    border-radius:5px;
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+}
+.Dream{
+    background-image: url(images/top\ bnner.jpeg);
+}
+.present{
+    color: orange;
+}
+.past{
+    color: orange;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience{
+    background-image: url(images/top\ bnner.jpeg);
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,orange,red);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer{ 
+    text-align: center;
+    font-size: 12px;
+}
